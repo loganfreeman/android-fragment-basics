@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/HD2/projects/android/FragmentBasics/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a71fb6d6714c70cf49c6224722c295e3d8bd61e6">
+        <dex dex="/Volumes/HD2/projects/android/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70909939d09edb48f03a4a0e9104aa7ac720897c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/HD2/projects/android/FragmentBasics/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9207fb21e7eaf9294e607c87e212b25802b1fbc">
+        <dex dex="/Volumes/HD2/projects/android/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b63f64d1f9d7ce306b1f6fa2c39eaed32d6628b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shanhong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Volumes/HD2/projects/android/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_66eeddea1cf5ed7bc786a74db271fff46f3ba1f3/classes.dex" />
+    </item>
+
+</items>
